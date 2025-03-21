@@ -11,5 +11,5 @@ __pycache__/
 !source/official/.gitignore
 # Force create of source/official as empty directory
 
-
+.idea
 config-template.yml

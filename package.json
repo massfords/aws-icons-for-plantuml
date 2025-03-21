@@ -1,0 +1,24 @@
+{
+  "name": "aws-icons-for-plantuml",
+  "version": "19.0",
+  "description": "AWS Icons for PlantUML",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awslabs/aws-plantuml-icons.git"
+  },
+  "keywords": [
+    "aws",
+    "plantuml",
+    "icons"
+  ],
+  "author": "Amazon.com, Inc. or its affiliates",
+  "license": "MIT",
+  "homepage": "https://github.com/awslabs/aws-plantuml-icons#readme"
+}
