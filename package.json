@@ -20,5 +20,9 @@
   ],
   "author": "Amazon.com, Inc. or its affiliates",
   "license": "CC-BY-SA-4.0",
-  "homepage": "https://github.com/massfords/aws-icons-for-plantuml"
+  "homepage": "https://github.com/massfords/aws-icons-for-plantuml",
+  "publishConfig": {
+    "access": "public"
+  }
+
 }
